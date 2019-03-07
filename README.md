@@ -58,7 +58,7 @@ Share ITS is an E-learning website provided by ITS which is similar to google cl
 ### Cultural Model
 ![Cultural Model and Annotation](https://github.com/hci-a-if-its-2019/assignment-1-trus25/blob/master/Src/Cultural%20Flow.jpg)
 ## Do's and Don't's
-### DO
+### Do
 - Arrange the thumbnail menu properly/remove it completely
 - Make the navigation box bigger and can be seen better
 ### Dont
