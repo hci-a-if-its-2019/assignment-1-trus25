@@ -1,12 +1,49 @@
 # Contextual Inquiry and Analysis
 ## Device/ App/ Website Description
-Share ITS is an E-learning website provided by ITS which is similar to google classroom. But its UI makes it hard to use it, especially finding the course. The menu for faculty is grouped together with one another which make it hard to find where my department is. 
+Share ITS is an E-learning website provided by ITS which is similar to google classroom. But its UI makes it hard to use it, especially finding the course. The menu for faculty is grouped together with one another which make it hard to find where my department is and its also hard to find my current course. 
 ## Instruction Script
-Nam a eleifend tortor. In eget facilisis est. Suspendisse tincidunt mi lorem, non volutpat libero scelerisque id. Curabitur dui dui, dignissim ac lectus sit amet, sodales gravida ex. Donec mattis, enim vitae sollicitudin rhoncus, diam elit consequat massa, et rutrum magna augue vitae turpis. In eget arcu laoreet, dapibus arcu eget, mattis massa. Aenean fringilla eu dui ut vestibulum. Aenean consequat consectetur massa, eget ornare sapien dignissim vel. Nunc vestibulum tellus ut dolor euismod commodo. Vivamus fringilla urna eget elit vestibulum mattis. Sed nec mattis nisl. Sed sit amet sapien at libero tincidunt ullamcorper. Sed tempus non quam eu rutrum. Nunc fringilla lorem non nibh pulvinar fermentum.
+1. Login into the website
+2. Finding the user's department
+3. Finding the course the user are looking for
+4. Finding the list of courses in the user's account
 ## User Description
-Aliquam id lacus leo. Sed elementum lectus non lacus ultricies vehicula. Pellentesque et sollicitudin risus, a imperdiet metus. Vivamus augue ligula, suscipit ac cursus quis, auctor eu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Praesent rhoncus faucibus mauris. Curabitur bibendum lorem eu neque efficitur, quis luctus mauris aliquet. Praesent posuere, urna eget euismod dictum, elit est vehicula ex, volutpat ultrices augue mi in mauris. Nulla lobortis dolor quis ullamcorper volutpat. Aenean convallis eros vitae justo elementum condimentum. Aenean eros enim, lobortis non imperdiet quis, pulvinar volutpat quam.
+1. The user is male 21 years old
+2. He is a student of Civil Engineering ITS
+3. It is his first time using ShareITS
 ## Transcript
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse auctor, nunc non gravida maximus, nisl dui lobortis mi, ut maximus ipsum arcu eu quam. Etiam euismod lacus rhoncus lectus dapibus, nec maximus lorem porttitor. Nunc finibus dictum vehicula. Maecenas feugiat turpis vitae maximus placerat. Nunc quis neque vestibulum, rhoncus libero vel, efficitur diam. Donec lobortis turpis condimentum ultrices finibus. Sed sit amet eleifend sapien, non tristique felis. Suspendisse potenti. Maecenas sodales ac dolor ac suscipit. Aenean turpis arcu, placerat et augue vel, lacinia tincidunt ante. Etiam rhoncus nisl vitae sem rhoncus ultrices. Praesent venenatis vulputate diam, iaculis fringilla nisi. Nullam a tellus eget ipsum volutpat mattis fringilla non erat. Donec tincidunt mi sed metus vulputate tristique. Nam in dolor ut ex vestibulum rhoncus in nec lectus.
+```
+  1. Farhan   : Guh, pernah buka ShareITS?
+  2. Teguh    : Belum Jud, di kelas ga pernah disuruh pakai soalnya
+  3. Farhan   : Menurutmu gimana tampilan web ini?
+  4. Teguh    : Menurutku sih agak berantakan
+  5. Farhan   : Oke, coba login dulu
+  6. Teguh    : Perlu daftar dulu ga ini?
+  7. Farhan   : Gausah, tinggal pake nrp sama passwordnya 123
+  8. Teguh    : Oke
+  9. Farhan   : Kalo udah, kamu coba cari departementmu
+  10. Teguh   : Oke, bentar dicoba
+  11. Farhan  : Gimana, ketemu ga?
+  12. Teguh   : Hmm, ini ikon fakultasnya dempet-dempet bgt agak susah ngeliatnya 
+  13. Farhan  : Haha gatau dah emg ribet klo nyari dari ikon yg di home, aku juga awal-awal buka susah nyarinya, mending klik dropbox yang di pojok kiri atas. Tapi udah ketemu blom?
+  14. Teguh   : ohh gitu, udah nih
+  15. Farhan  : Nah, sekarang coba cari salah satu mata kuliahmu
+  16. Teguh   : Kok gaada matakuliah yg lagi aku ikutin ya?
+  17. Farhan  : Loh iya bener juga, mungkin harus dosennya duluan yang bikin coursenya
+  18. Farhan  : Yaudah, klo gitu list mata kuliah yang sedang diikuti
+  19. Teguh   : ...(User mencari cukup lama bagian ini)
+  20. Farhan  : Gimana, udah ketemu belom? kok lama banget nyarinya?
+  21. Teguh   : Belum nih, menunya dimana ya? galiat ada menu yang nunjukin kelas yg aku ikutin
+  22. Farhan  : Hahah coba kamu balik lagi ke home, trus scroll ke paling bawah
+  23. Teguh   : Wah iya ada, tapi kok di situ ya, harusnya kan diatas-atas
+  24. Farhan  : Aku juga kurang tau sih, dari dulu masih disitu aja letaknya
+  25. Farhan  : Jadi, gimana menurutmu?
+  26. Teguh   : Hmm, gimana ya. Webnya sih bagus buat belajar online gitu, cuma klo buat orang yang jarang make kyknya susah deh makenya kalau ga nanya-nanya temen
+  27. Farhan  : Yang susah bagian mana aja?
+  28. Teguh   : Waktu nyari departement sama list matakuliah sih menurutku. Perlu ada perbaikan tampilan nih, apalagi penggunanya lumayan banyak kan.
+  29. Farhan  : Ya bener, semoga aja ada perbaikan.
+  30. Farhan  : Yaudah deh segitu aja dulu guh, makasih ya udah mau bantu 
+  31. Teguh   : Okee, sama-sama.
+```
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
