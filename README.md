@@ -1,5 +1,5 @@
 # Contextual Inquiry and Analysis
-## Device/ App/ Website Description
+## ShareITS Description
 Share ITS is an E-learning website provided by ITS which is similar to google classroom. But its UI makes it hard to use it, especially finding the course. The menu for faculty is grouped together with one another which make it hard to find where my department is and its also hard to find my current course. 
 ## Instruction Script
 1. Login into the website
