@@ -63,3 +63,12 @@ Share ITS is an E-learning website provided by ITS which is similar to google cl
 - Make the navigation box bigger and can be seen better
 ### Dont
 - Dont place the course list at the bottom of the page
+
+# Remarks
+> * You should not expose the participant's name on the report.
+> * The `Artifact Model`'s annotation lacks of reference number to which lines in `Transcript` it relates to.
+
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 1            | 11               | 0               | 81,5               | 79,5       | 81,1  |
